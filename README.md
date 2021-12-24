@@ -12,4 +12,7 @@ Please add your sequences and file PR. Be aware that you make it available under
 │   ├── attributions.md // say something about your sequence
 │   ├── lightshow.fseq // the sequence
 │   ├── lightshow.mp3 // or lightshow.wav (wav is recommended)
+├── someoneElsesFamousSequence
+│   ├── attributions.md 
+│   ├── ...
 ```
